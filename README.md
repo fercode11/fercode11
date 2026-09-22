@@ -34,16 +34,7 @@ Trabajo en el desarrollo de aplicaciones web y servicios backend utilizando Java
 - 🏗️ Construcción de sistemas escalables utilizando patrones de diseño y prácticas de **Clean Code**.
 - 🤖 Implementación de arquitecturas **RAG (Retrieval-Augmented Generation)** y flujos automatizados con agentes de IA.
 - 📦 Gestión e infraestructura eficiente mediante contenedores **Docker** y arquitecturas de repositorio.
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fercode11&show_icons=true&theme=tokyonight&hide_border=true" alt="Fernando's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fercode11&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
-</p>
-
+- 
 ---
 
 ### 📫 Contacto & Redes
