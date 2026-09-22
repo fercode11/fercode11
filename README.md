@@ -34,7 +34,7 @@ Trabajo en el desarrollo de aplicaciones web y servicios backend utilizando Java
 - 🏗️ Construcción de sistemas escalables utilizando patrones de diseño y prácticas de **Clean Code**.
 - 🤖 Implementación de arquitecturas **RAG (Retrieval-Augmented Generation)** y flujos automatizados con agentes de IA.
 - 📦 Gestión e infraestructura eficiente mediante contenedores **Docker** y arquitecturas de repositorio.
-- 
+
 ---
 
 ### 📫 Contacto & Redes
